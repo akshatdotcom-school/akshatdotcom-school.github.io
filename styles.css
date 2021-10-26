@@ -1,8 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans&display=swap');
+
 body {
     background-color: rebeccapurple;
 }
 
 h1 {
     color: skyblue;
-    font-family: ;
+    font-family: 'Balsamiq Sans', cursive;
 }
